@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+
+
+int numeros;
+
+int main() {
+
+numeros=0;
+
+for (numeros=1; numeros<=100; numeros++){
+printf("Numero %d\n", numeros);
+}
+
+return 0;
+
+}
