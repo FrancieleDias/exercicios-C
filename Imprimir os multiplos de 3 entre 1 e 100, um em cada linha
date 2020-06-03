@@ -1,0 +1,17 @@
+#include "stdio.h"
+
+int main()
+{
+	char *caractere;
+
+	int x;
+
+	// Comando "for" com avanco de 3 em 3 (x=x+3)
+	for(x=3; x<=100; x=x+3) 
+	{
+		printf("%d \n", x);
+	}
+
+	scanf("%c", &caractere);
+	return 0;
+}
