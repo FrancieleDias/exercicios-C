@@ -1,4 +1,4 @@
-# exercicios-C-softblue
+# exercicios-C
 
 Utilizando Visual Studio Code.
 
